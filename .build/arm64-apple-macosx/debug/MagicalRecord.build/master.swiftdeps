@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "54784407c0788d6c765e4b4f4691f14aa9d3598c855413727a5d76ba3031909a"
+build_start_time: [1671530392, 960668087]
+build_end_time: [1671530393, 349931955]
+inputs:
+  "/Users/longvu/Desktop/MagicalRecord/Sources/MagicalRecord/MagicalRecord.swift": [1671526465, 722868442]

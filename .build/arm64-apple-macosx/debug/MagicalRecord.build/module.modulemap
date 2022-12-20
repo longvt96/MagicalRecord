@@ -1,0 +1,4 @@
+module MagicalRecord {
+    header "/Users/longvu/Desktop/MagicalRecord/.build/arm64-apple-macosx/debug/MagicalRecord.build/MagicalRecord-Swift.h"
+    requires objc
+}

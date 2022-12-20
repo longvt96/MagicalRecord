@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/longvu/Desktop/MagicalRecord/.build/arm64-apple-macosx/debug/MagicalRecord.build/master.swiftdeps"
+  },
+  "/Users/longvu/Desktop/MagicalRecord/Sources/MagicalRecord/MagicalRecord.swift": {
+    "dependencies": "/Users/longvu/Desktop/MagicalRecord/.build/arm64-apple-macosx/debug/MagicalRecord.build/MagicalRecord.d",
+    "object": "/Users/longvu/Desktop/MagicalRecord/.build/arm64-apple-macosx/debug/MagicalRecord.build/MagicalRecord.swift.o",
+    "swiftmodule": "/Users/longvu/Desktop/MagicalRecord/.build/arm64-apple-macosx/debug/MagicalRecord.build/MagicalRecord~partial.swiftmodule",
+    "swift-dependencies": "/Users/longvu/Desktop/MagicalRecord/.build/arm64-apple-macosx/debug/MagicalRecord.build/MagicalRecord.swiftdeps"
+  }
+}

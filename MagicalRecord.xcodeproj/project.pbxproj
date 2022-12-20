@@ -12,9 +12,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		84E2B0352951BF5B007E8C00 /* Core */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Core; sourceTree = "<group>"; };
-		84E2B0362951BF5B007E8C00 /* Categories */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Categories; sourceTree = "<group>"; };
-		84E2B0372951BF65007E8C00 /* MagicalRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MagicalRecord.h; sourceTree = "<group>"; };
+		84E2B03E2951C1DD007E8C00 /* Core */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Core; sourceTree = "<group>"; };
+		84E2B03F2951C1DD007E8C00 /* Categories */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Categories; sourceTree = "<group>"; };
+		84E2B0402951C1DD007E8C00 /* MagicalRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MagicalRecord.h; sourceTree = "<group>"; };
 		OBJ_13 /* Docs */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Docs; sourceTree = SOURCE_ROOT; };
 		OBJ_14 /* MagicalRecord */ = {isa = PBXFileReference; lastKnownFileType = folder; path = MagicalRecord; sourceTree = SOURCE_ROOT; };
 		OBJ_15 /* Samples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Samples; sourceTree = SOURCE_ROOT; };
@@ -78,9 +78,6 @@
 		OBJ_7 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				84E2B0372951BF65007E8C00 /* MagicalRecord.h */,
-				84E2B0362951BF5B007E8C00 /* Categories */,
-				84E2B0352951BF5B007E8C00 /* Core */,
 				OBJ_8 /* MagicalRecord */,
 			);
 			name = Sources;
@@ -89,6 +86,9 @@
 		OBJ_8 /* MagicalRecord */ = {
 			isa = PBXGroup;
 			children = (
+				84E2B03F2951C1DD007E8C00 /* Categories */,
+				84E2B03E2951C1DD007E8C00 /* Core */,
+				84E2B0402951C1DD007E8C00 /* MagicalRecord.h */,
 				OBJ_9 /* MagicalRecord.swift */,
 			);
 			name = MagicalRecord;
